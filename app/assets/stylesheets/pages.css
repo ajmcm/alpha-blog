@@ -1,0 +1,31 @@
+body
+{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #ff9966;
+}
+header
+{
+	font-family: ;
+	background-color: #ff7733;
+	padding: 20px;
+	text-align: center;
+}
+nav
+{
+	max-width: 10em;
+	padding: 50px;
+	float: left;
+}
+section
+{
+	padding: 50px;
+	margin-left: 260px;
+	border-left: 1px solid #ff7733;
+}
+footer
+{
+	text-align: center;
+	clear: left;
+	padding: 20px;
+	background-color: #ff7733;
+}
